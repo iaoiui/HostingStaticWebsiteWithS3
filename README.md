@@ -1,7 +1,9 @@
 # HostingStaticWebsiteWithS3
 
 # Getting Started
-Just run following scripts.
+Edit <YOUR_BUCKET_NAME> in each script.
+
+Then run following scripts.
 
 - 01-create-bucket.sh
 - 02-upload-startsite.sh
